@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local subsidy office prompt
+/prompts/subsidy-office.md
